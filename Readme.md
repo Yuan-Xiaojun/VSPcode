@@ -1,4 +1,4 @@
-# Readme
+# Variance State Propagation for Structured Sparse Bayesian Learning
 
 This package contains the official implementation of the **variance state propagation (VSP)** algorithm proposed in the paper: 
 
