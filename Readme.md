@@ -22,7 +22,7 @@ VSP is a robust compressed sensing (CS) algorithm for *block-sparse* signals. It
 
 `StdSBLSolver.m`: sparse Bayesian learning (SBL) solver. Baseline method.
 
-`PCSBLSolver.m`: pattern-coupled sparse Bayesian learning (SBL) solver. Baseline method.
+`PCSBLSolver.m`: pattern-coupled sparse Bayesian learning (PC-SBL) solver. Baseline method.
 
 `test_VSP.m`: a test demo.
 
